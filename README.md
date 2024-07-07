@@ -7,7 +7,7 @@ The program takes inputs from the user of the dimensions of the columns and its 
 ## Punching Stress:
 $$ qp =  \frac{QU * \beta}{B_{o} * \text{depth}} $$ 
 
-Allowable:
+## Allowable:
 max($0.316 \sqrt{\frac{f_{cu}}{\gamma_{c}}}$,1.6)
 
 
