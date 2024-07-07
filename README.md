@@ -23,7 +23,7 @@ $\beta$ = 1.50 for corner column
 
 ## QU equation:
 for interior columns:
-QU = $w_{u}(L_{1}*L_{2} - a_{1}*b_{1})$
+$QU = w_{u}(L_{1}*L_{2} - a_{1}*b_{1})$
 
 for exterior columns:
 $$ QU = w_{u}(\frac{L_{1}*L_{2}}{2} - a_{1}*b_{1})$$
