@@ -14,12 +14,11 @@ max($0.316 \sqrt{\frac{f_{cu}}{\gamma_{c}}}$,1.6)
 
 where $QU$ is the Ultimate Shear Force, $\beta$ is a coefficient for the position of the pole in the place, $B_{o}$ is the perimeter of the slab, and depth is the depth of the slab.
 
-$\beta$ = 1.15 
-for interior colum
+$\beta$ = 1.15 for interior colum
 
-$ \beta = 1.30 $ for exterior column
+$\beta$ = 1.30 for exterior column
 
-$ \beta = 1.50 $ for corner column
+$\beta$ = 1.50 for corner column
 
 
 ## QU equation:
