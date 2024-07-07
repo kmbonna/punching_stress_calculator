@@ -33,9 +33,11 @@ $QU = w_{u}(\frac{L_{1}*L_{2}}{4} - a_{1}*b_{1})$
 
 
 where:
-$$ w_{u} = 1.4(2.5T_{s} + F_{c} + wall load) + (1.6 * live load) $$
+$w_{u} = 1.4(2.5T_{s} + F_{c} + wall load) + (1.6 * live load)$
+
 $a_{1} = a+depth$
-$$ b_{1} = b+depth $$
+
+$b_{1} = b+depth$
 
 
 ### $\beta_{o}$ equation:
