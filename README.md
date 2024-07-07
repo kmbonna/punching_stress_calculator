@@ -48,7 +48,7 @@ $$ depth = T_{s} - 0.003$$
 
 ## Inputs to get from user:
 
- - $ a,b, T_{s}$: Dimensions of the column
+ - $a,b$, $T_{s}$: Dimensions of the column
 
  - $f_{cu}$: Compressive Strength
 
