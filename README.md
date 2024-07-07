@@ -8,7 +8,9 @@ The program takes inputs from the user of the dimensions of the columns and its 
 $$ qp =  \frac{QU * \beta}{B_{o} * \text{depth}} $$ 
 
 Allowable:
-$$ max(0.316 \sqrt{\frac{f_{cu}}{\gamma_{c}}},1.6) $$
+$$ 
+max(0.316 \sqrt{\frac{f_{cu}}{\gamma_{c}}},1.6)
+$$
 
 where $QU$ is the Ultimate Shear Force, $\beta$ is a coefficient for the position of the pole in the place, $B_{o}$ is the perimeter of the slab, and depth is the depth of the slab.
 
